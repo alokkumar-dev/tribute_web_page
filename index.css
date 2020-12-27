@@ -14,8 +14,10 @@ body{
    height: .1em;
 }
 #image{
-    position: relative;
-    width: 90%;   
+    max-width: 95%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
 
 }
 #title{
